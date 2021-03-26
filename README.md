@@ -1,5 +1,14 @@
 ### Hi there 👋
 
+![Anurag's GitHub stats](https://github-readme-stats.vercel.app/api?username=Gabriel-souzaa&show_icons=true&theme=dracula)
+
+[![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=Gabriel-souzaa&layout=compact&theme=dracula)](https://github.com/anuraghazra/github-readme-stats)
+
+![ReactNative](https://img.shields.io/badge/react_native%20-%2320232a.svg?&style=flat-square&logo=react&logoColor=%2361DAFB)
+![React](https://img.shields.io/badge/react%20-%2320232a.svg?&style=flat-square&logo=react&logoColor=%2361DAFB)
+![js](https://img.shields.io/badge/Javascript%20-%2320232a.svg?&style=flat-square&logo=javascript&logoColor=%2yellow)
+![PHP](https://img.shields.io/badge/PHP%20-%2320232a.svg?&style=flat-square&logo=PHP&logoColor=%2yellow)
+
 <!--
 **Gabriel-souzaa/Gabriel-souzaa** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
 
