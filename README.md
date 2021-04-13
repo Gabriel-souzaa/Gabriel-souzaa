@@ -8,6 +8,7 @@
 ![React](https://img.shields.io/badge/react%20-%2320232a.svg?&style=flat-square&logo=react&logoColor=%2361DAFB)
 ![js](https://img.shields.io/badge/Javascript%20-%2320232a.svg?&style=flat-square&logo=javascript&logoColor=%2yellow)
 ![PHP](https://img.shields.io/badge/PHP%20-%2320232a.svg?&style=flat-square&logo=PHP&logoColor=%2yellow)
+![java](https://img.shields.io/badge/java%20-%2320232a.svg?&style=flat-square&logo=java)
 
 <!--
 **Gabriel-souzaa/Gabriel-souzaa** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
