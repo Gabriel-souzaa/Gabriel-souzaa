@@ -6,7 +6,7 @@ Desenvolvedor de softwares
 [![Linkedin Badge](https://img.shields.io/badge/-Gabriel%20Freitas-282a36?style=flat-square&logo=Linkedin&logoColor=white&link=https://www.linkedin.com/in/gabriel-freitas-803a88197/)](https://www.linkedin.com/in/gabriel-freitas-803a88197/) 
 [![Gmail Badge](https://img.shields.io/badge/-gabrielfreitassouzaa@gmail.com-282a36?style=flat-square&logo=Gmail&logoColor=red&link=mailto:gabrielfreitassouzaa@gmail.com)](mailto:gabrielfreitassouzaa@gmail.com)
 
-Meu nome é Gabriel Freitas, tenho 20 anos e sou apaixonado pela programação. Atualmente estou atuando como desenvolvedor trainee PHP, NODEJS (typescript) na Business Integrator e freeLancer com ReactJS/NODEjs.
+Meu nome é Gabriel Freitas, tenho 20 anos e sou apaixonado pela programação. Atualmente estou atuando como desenvolvedor Full Stack na FlipBox e freeLancer com ReactJS/NODEjs.
 
 A cada dia que passa consigo aprender e evoluir ainda mais para chegar nos meus objetivos como programador, tanto nas tarefas diárias da empresa, quanto nos cursos realizo todos os dias.
 
